@@ -13,9 +13,9 @@
   ],
   "dependencies": {
     "async": "^2.6.0",
-    "bfx-facs-api": "git+https://github.com/bitfinexcom/bfx-facs-api.git",
-    "bfx-facs-grc": "git+https://github.com/bitfinexcom/bfx-facs-grc.git",
-    "bfx-wrk-base": "git+https://github.com/bitfinexcom/bfx-wrk-base.git",
+    "bfx-facs-api": "git+https://github.com/amissine/bfx-facs-api.git",
+    "bfx-facs-grc": "git+https://github.com/amissine/bfx-facs-grc.git",
+    "bfx-wrk-base": "git+https://github.com/amissine/bfx-wrk-base.git",
     "lodash": "^4.17.10"
   },
   "engine": {
@@ -24,7 +24,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitfinexcom/bfx-wrk-api.git"
+    "url": "git+https://github.com/amissine/bfx-wrk-api.git"
   },
   "maintainers": [
     {
